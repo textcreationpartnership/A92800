@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wedding ring fit for the finger: or, The salve of divinity on the sore of humanity. Laid open in a sermon at a wedding in Edmonton, / by William Secker preacher of the Gospel.</title>
+            <author>Secker, William, d. 1681?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92800</idno>
+            <idno type="STC">Wing S2254</idno>
+            <idno type="STC">Thomason E1648_4</idno>
+            <idno type="STC">ESTC R209103</idno>
+            <idno type="EEBO-CITATION">99868003</idno>
+            <idno type="PROQUEST">99868003</idno>
+            <idno type="VID">170214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170214)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1648[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wedding ring fit for the finger: or, The salve of divinity on the sore of humanity. Laid open in a sermon at a wedding in Edmonton, / by William Secker preacher of the Gospel.</title>
+                  <author>Secker, William, d. 1681?</author>
+               </titleStmt>
+               <extent>56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst at the three Crowns over-against the great Conduit at the lower end of Cheap-side.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "march. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Genesis II, 18 --  Sermons.</term>
+               <term>Wedding sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170214:1" rendition="simple:additions"/>
+            <p>A WEDDING Ring Fit for the FINGER: Or, the ſalve of <hi>DIVINITY</hi> On the ſore of <hi>H<g ref="char:V">Ʋ</g>MANITY.</hi>
+            </p>
+            <p>Laid open in a Sermon at a Wed<g ref="char:EOLhyphen"/>ding in <hi>Edmonton,</hi> by <hi>William Secker</hi> Preacher of the Goſpel.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Parkhurſt</hi> at the three Crowns over-againſt the great Conduit at the lower end of <hi>Cheap-ſide.</hi> 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170214:2"/>
+            <pb facs="tcp:170214:2"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is not good weigh<g ref="char:EOLhyphen"/>ing ones worth in ſuch unequal bal<g ref="char:EOLhyphen"/>lances, where the feather of opi<g ref="char:EOLhyphen"/>nion turnes the ſcales. One ſpoke can never ſtand ſtill whileſt the whole wheel turnes round. The gifts and graces of Chriſtians lay in common till envie made the firſt in<g ref="char:EOLhyphen"/>cloſure.
+<pb facs="tcp:170214:3"/>
+Here thou mayeſt ſhew thy wiſdome in ſpin<g ref="char:EOLhyphen"/>ning a fine thread out of courſe wooll. Do not hurt him by thy malice, who would help thee in thy marriage. Who would plant a piece or Ordnance to beat down an aſpen leafe, which having alwayes the palſie, will fall alone? This piece neither deſires ſup<g ref="char:EOLhyphen"/>planters, nor deſerves ſuppor<g ref="char:EOLhyphen"/>ters. It comes forth as a preſſed Souldier, not as a Vo<g ref="char:EOLhyphen"/>lunteer, what it was in prea<g ref="char:EOLhyphen"/>ching, it is in publiſhing; There is not one cubit added to its ſtature, to ſecure it from the Avenger of blood, it flyes to thy City
+<pb n="7" facs="tcp:170214:3"/>
+of refuge. Let him who ſowes his paines, reap thy prayers.</hi>
+            </p>
+            <closer>
+               <signed>Thine in the Lord Jeſus William Secker.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:170214:4"/>
+            <pb facs="tcp:170214:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Gen. 2. 18.</bibl>
+                  <p>And the Lord God ſaid, it is not good that the man ſhould be alone, I will make him a help meet for him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Umane miſery is to divine mercy, as a black foile to a ſparkling Diamond, or as a ſable cloud to the Sunne-beames; <hi>Pſal. 8. 4. Lord what is man, that thou art mindful of him!</hi> man is,
+<list>
+                  <item>In his Creation, Angelical.</item>
+                  <item>
+                     <pb n="10" facs="tcp:170214:5"/>In his Corruption, Diabolical.</item>
+                  <item>In his Renovation, Theological.</item>
+                  <item>In his Tranſlation, Majeſtical.</item>
+                  <item>An Angel in <hi>Eden.</hi>
+                  </item>
+                  <item>A Devil in the World.</item>
+                  <item>A Saint in the Church.</item>
+                  <item>A King in Heaven.</item>
+               </list>
+            </p>
+            <p>There were foure ſilver Chan<g ref="char:EOLhyphen"/>nels in which the chryſtal ſtreames of Gods affection ran to man in his Creation.
+<list>
+                  <item>1. In his Preparation.</item>
+                  <item>2. In his Aſſimulation.</item>
+                  <item>3. In his Coronation.</item>
+                  <item>4. In his Aſſociation.</item>
+               </list>
+            </p>
+            <p n="1">1. In his <hi>preparation:</hi> Other creatures recieved the Charter of their beings by a ſimple <hi>fiat,</hi> but there was a conſultation at his forming; not for the difficulty, but for the dignity of the work. The Painter is moſt ſtudious about that which he means to make his Maſter-piece. The foure Elements were taken out of their Elements
+<pb n="11" facs="tcp:170214:5"/>
+to make up the perfection of mans complexion; The fire was purifi'd, the aire was clarifi'd, the water was purged, the earth was refined, when man was moulded, heaven and earth was married; a body from the one was eſpouſed to a ſoul from the other.</p>
+            <p n="2">2. In his <hi>aſſimulation:</hi> Other creatures were made like them<g ref="char:EOLhyphen"/>ſelves, but man was made like God, as the wax hath the impreſſion of the ſeal ſet upon it. It's admirable to behold ſo faire a picture in ſuch courſe canvas, and ſo bright a Character in ſuch a brown pa<g ref="char:EOLhyphen"/>per.</p>
+            <p n="3">3. In his <hi>coronation:</hi> He that made man and all the reſt, made man over all the reſt. <hi>Quantillum Dominum poſuit, Deus in tantum do<g ref="char:EOLhyphen"/>minium,</hi> he was a little Lord of a great Lordſhip; This King was crowned in his cradle.</p>
+            <p n="4">4. In his <hi>aſſociation:</hi> Society is
+<pb n="42" facs="tcp:170214:6"/>
+the ſolace of humanity: The world would be a deſart without a con<g ref="char:EOLhyphen"/>ſort.</p>
+            <p>Moſt of mens parts are made in paires; now he that was double in his perfection, muſt not be ſingle in his condition, <hi>and the Lord God ſaid, &amp;c.</hi>
+            </p>
+            <p>Theſe words are like the Iron<g ref="char:EOLhyphen"/>gate that opened to <hi>Peter</hi> of it's own accord, dividing themſelves into three parts.</p>
+            <list>
+               <item>1. An introduction: <hi>and the Lord God ſaid.</hi>
+               </item>
+               <item>2. An aſſertion, <hi>'tis not good that the man ſhould be alone.</hi>
+               </item>
+               <item>3. A determination, <hi>I will make an help meet for him.</hi>
+               </item>
+            </list>
+            <p>In the firſt, there's a Majeſty propoſed.</p>
+            <p>In the ſecond, there's a malady preſented.</p>
+            <p>In the third, there's a remedy provided.</p>
+            <p>Once more let me put theſe grapes into the preſſe.</p>
+            <list>
+               <item>
+                  <pb facs="tcp:170214:6"/>1. The Soveraignneſſe of the expreſſion, <hi>and the Lord God ſaid.</hi>
+               </item>
+               <item>2. The ſolitarineſſe of the condition, <hi>'tis not good, &amp;c.</hi>
+               </item>
+               <item>3. The ſutableneſſe of the pro<g ref="char:EOLhyphen"/>viſion, <hi>I will make, &amp;c.</hi>
+               </item>
+            </list>
+            <p>In the firſt, there's the worth of <hi>veracity.</hi>
+            </p>
+            <p>In the ſecond, there's the want of <hi>ſociety.</hi>
+            </p>
+            <p>In the third, there's the work of <hi>divinity.</hi>
+            </p>
+            <p>Of theſe in their order.</p>
+            <p>And firſt of the firſt.</p>
+            <p>For the firſt. The Soveraignneſſe of the expreſſion, <hi>and the Lord God ſaid.</hi>
+            </p>
+            <p>
+               <hi>Luke</hi> 1. 70. As he ſpake by the mouth of his Prophets. In other Scriptures he uſed their mouths, but in this he makes uſe of his own: they were the Organs, and he the Breath; the early ſtreames, and he the Fountain. How he ſpake 'tis hard to be ſpoken, whe<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:170214:7"/>
+eternally, or internally, or ex<g ref="char:EOLhyphen"/>ternally. <hi>Quomodo non eſt quod quoeramus, ſed potius quid dixerit in<g ref="char:EOLhyphen"/>telligamus,</hi>
+               <note place="margin">Bern.</note> we are not to enquire to the manner of ſpeaking, but to the matter that's ſpoken, which leads me like a directing ſtarre from the Suburbs to the City, from the Porch to the Palace, from the Founder of the Mine, to the Trea<g ref="char:EOLhyphen"/>ſure that is in it, <hi>it is not good, &amp;c.</hi>
+            </p>
+            <list>
+               <head>In which you have two things.</head>
+               <item>1. The ſubject.</item>
+               <item>2. The predicate.</item>
+            </list>
+            <p>The ſubject, <hi>man alone.</hi>
+            </p>
+            <p>The predicate, <hi>'tis not good, &amp;c.</hi>
+            </p>
+            <p>Firſt, the ſubject, <hi>man alone,</hi> take this in two branches.</p>
+            <list>
+               <item>1. As it is limited to one man.</item>
+               <item>2. As it is lengthened to all men.</item>
+            </list>
+            <p>
+               <pb n="15" facs="tcp:170214:7"/>Firſt, as 'tis limited to one man, and ſo it is taken particularly, man for the firſt man. When all other creatures had their mates, <hi>Adam</hi> wanted his: Though he was the Emperour of the Earth, and the Admiral of the Seas, yet in Para<g ref="char:EOLhyphen"/>diſe without a companion, though he was truly happy, yet he was not fully happy; Though he had e<g ref="char:EOLhyphen"/>nough for his board, yet he had not enough for his bed; Though he had many creatures to ſerve him, yet he wanted a creature to ſo<g ref="char:EOLhyphen"/>lace him; when he was compoun<g ref="char:EOLhyphen"/>ded in Creation, he muſt be com<g ref="char:EOLhyphen"/>pleated by conjunction; when he had no ſinne to hurt him, then he muſt have a wife to help him; <hi>It is not good that man ſhould be a<g ref="char:EOLhyphen"/>lone.</hi>
+            </p>
+            <p>Secondly, as it's lengthned to all men, and ſo it's taken univer<g ref="char:EOLhyphen"/>ſally, <hi>Heb. 13. 4. Marriage is ho<g ref="char:EOLhyphen"/>norable unto all,</hi> not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="46" facs="tcp:170214:8"/>
+but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It's not onely warran<g ref="char:EOLhyphen"/>table, but honourable. The whole Trinity hath conſpired toge<g ref="char:EOLhyphen"/>ther to ſet a Crown of glo<g ref="char:EOLhyphen"/>ry upon the head of Matrimo<g ref="char:EOLhyphen"/>ny.</p>
+            <p n="1">1. God the Father: Marriage was a Tree planted within the walls of Paradiſe, this flower firſt grew in Gods garden.</p>
+            <p n="2">2. The Sonne: Marriage is a chriſtal-glaſſe wherein Chriſt and the Saints do ſee each others faces.</p>
+            <p n="3">3. The Holy Ghoſt by his over<g ref="char:EOLhyphen"/>ſhadowing of the bleſſed Virgin. Well might the world when it ſaw her pregnancie, ſuſpect her Virgini<g ref="char:EOLhyphen"/>ty, but her Matrimonial condition was a grave to that ſuſpition; with<g ref="char:EOLhyphen"/>out this, her innocency had not prevented her infamy; ſhe needed a ſhield to defend that chaſtity a<g ref="char:EOLhyphen"/>broad, which was kept inviolable at home.</p>
+            <p>
+               <pb n="17" facs="tcp:170214:8"/>Too many have not worth e<g ref="char:EOLhyphen"/>nough to preſerve their virginity, have yet will enough to cover their unchaſtity; turning the medicine of frailty into the mantle of filthi<g ref="char:EOLhyphen"/>neſſe. Certainly ſhe is mad that cuts off her legge to get her a crutch, or that venomes her face to weare a mask.</p>
+            <p>Saint <hi>Paul</hi> makes it one of the Characters of thoſe that ſhould ca<g ref="char:EOLhyphen"/>ſhiere the faith, 1<g ref="char:punc">▪</g> 
+               <hi>Tim.</hi> 4. 3. Not to forbear marriage, which may be lawful, but to forbid, it which is ſinful.</p>
+            <p>One of the Popes of <hi>Rome,</hi> ſprinkles this unholy drop upon it, <hi>carnis polutionem &amp; im<g ref="char:EOLhyphen"/>munditiem.</hi>
+            </p>
+            <p>It's ſtrange, that that ſhould be a pollution, which was inſtituted before corruption; or that impuri<g ref="char:EOLhyphen"/>ty, which was ordained in the ſtate of innocency; or that they ſhould make that be to a ſinne
+<pb n="18" facs="tcp:170214:9"/>
+which they make to be a Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But a Baſtard may be laid at the door of chaſtity; and a leaden crown ſet upon a golden head.</p>
+            <p>
+               <hi>Bellarmine</hi> that mighty <hi>Atlas</hi> of the Papal power blowes his ſtinking breath upon it, ſaying, better were it for a Prieſt to defile himſelf with many Harlots, than to be married to one wife. Theſe children of the purple-whore preferre their Mo<g ref="char:EOLhyphen"/>naſteries before our Marriages; a concubine before a companion. They uſe too many for their luſts, to chooſe any for their love; Their tables are ſo largely ſpread, that they can't feed upon one diſh.</p>
+            <p>As for their exalting of a Virgin<g ref="char:EOLhyphen"/>ſtate, it's like him that commended faſting when he had fill'd his belly.</p>
+            <p>Who knowes not that Virginity is a pearle of ſparkling luſtre? But
+<pb n="19" facs="tcp:170214:9"/>
+can't the one be ſet up, without the other be thrown down? will no ob<g ref="char:EOLhyphen"/>lation pacifie the former, but the demoliſhing of the latter? Though we find many enemies to the choice of marriage, yet it's rare to finde a<g ref="char:EOLhyphen"/>ny enemies to the uſe of marriage. They would pick the lock that want the key, and pluck the fruit that do not plant the Tree.</p>
+            <p>The Hebrewes have a ſaying, <hi>He is not a man that hath not a woman.</hi>
+            </p>
+            <p>Though they clime too high a bough; yet it's to be feared that ſuch fleſh is full of imperfection that is not tending to propagation; Though man alone may be good, yet it is not good that the man ſhould be alone; whichleads me from the ſubject to the predicate. <hi>It is not good, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Non bonum</hi> is not in this place as <hi>malum,</hi> but <hi>bonum eſt honeſtum utile jucundum.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:170214:10"/>Now it is not good that man ſhould be in a ſingle con<g ref="char:EOLhyphen"/>dition, upon a threefold conſide<g ref="char:EOLhyphen"/>ration.</p>
+            <p>1. In reſpect of ſinne, which would not elſe be prevented. Mar<g ref="char:EOLhyphen"/>riage is like water, to quench the ſparkes of luſts fire, 1 <hi>Cor. 7. 2. Nevertheleſse to avoid fornication, let every one have his own wife, &amp;c.</hi> Man needed no ſuch phyſick when he was in perfect health. Temp<g ref="char:EOLhyphen"/>tations may break natures beſt fence and lay it's Paradiſe waſte, but a ſingle life is a priſon of unruly de<g ref="char:EOLhyphen"/>ſires, which is daily attempted to be broken open.</p>
+            <p>Some indeed force themſelves to a ſingle life meerely to avoid the charges of a married ſtate; they had rather fry in the greaſe of their own ſenſuality, than extinguiſh thoſe flames with an allowed remedy; <hi>It's better to marry, than to burn;</hi> to be lawfully coupled, than
+<pb n="21" facs="tcp:170214:10"/>
+to be luſtfully ſcorched. It's beſt feeding theſe flames with ordinare fewel.</p>
+            <p>2. 'Tis not good in reſpect of mankinde, which then would not be propagated. The Roman Hiſto<g ref="char:EOLhyphen"/>rian relating the raviſhing of the Sa<g ref="char:EOLhyphen"/>bine women, excuſed it thus: <hi>Res exat unius aetatis populus virorum,</hi> without them mankinde would fall from the earth and periſh. Mar<g ref="char:EOLhyphen"/>riages do turne mutability into the image of eternity; it ſprings up new buds, when the old are withered. It's a greater honour for a man to be the father of one ſonne, than to be the Maſter of many ſervants. With<g ref="char:EOLhyphen"/>out a wife, children can't be had lawfully; without a good wife children can't be had comfortably. Man and woman as the ſtock and the ſcien, being grafted in marriage, are trees bearing fruit to the world.</p>
+            <p>Saint <hi>Auguſtine</hi> ſayes, this
+<pb n="22" facs="tcp:170214:11"/>
+pair is, <hi>primum par &amp; fundamentum omnium, &amp;c.</hi>
+            </p>
+            <p>They are the firſt linck of hu<g ref="char:EOLhyphen"/>mane ſociety to which all the reſt are joyned. Mankinde had long ago decayed and been like a Taper fall'n into the ſocket, if thoſe breaches which are made by mor<g ref="char:EOLhyphen"/>tality were not repaired by Matri<g ref="char:EOLhyphen"/>mony.</p>
+            <p>3. 'Tis not good in regard of the Church, which could not then have been expatiated. Where there is no generation, there can be no regeneration:</p>
+            <p>Nature makes us Creatures, before Grace makes us Chri<g ref="char:EOLhyphen"/>ſtians.</p>
+            <p>If the loines of men had been leſſe fruitfull, the death of Chriſt would have been leſſe ſuc<g ref="char:EOLhyphen"/>ceſſeful.</p>
+            <p>It was a witty queſtion that one put to him that ſaid, marriages fills the earth, but virginity
+<pb n="23" facs="tcp:170214:11"/>
+fills the heavens. How can the heavens be full, if the earth be empty?</p>
+            <p>Had <hi>Adam</hi> lived in Innocency without Matrimony, there would have been no ſervants for God in the Church Militant, nor no Saint with God in the Church Trium<g ref="char:EOLhyphen"/>phant. But I will not ſinke this Veſſel by the over-burdening of it, nor preſſe this truth to death by laying too great a load upon its ſhoulders.</p>
+            <p>There is one knot which I muſt unty before I make a farther progreſſe, 1 <hi>Corinthians 7. 1. It is good for a man not to touch a wo<g ref="char:EOLhyphen"/>man.</hi>
+            </p>
+            <p>Doth all the Scriptures proceed out of the ſame mouth, and do they not all ſpeak the ſame truth<g ref="char:punc">▪</g> the God of unity will not indite diſcord, and the God of verity cannot aſſert falſehood. If good and evil be contraries, how contrary then are
+<pb n="24" facs="tcp:170214:12"/>
+theſe Scriptures? Either <hi>Moſes</hi> miſ<g ref="char:EOLhyphen"/>takes God, or <hi>Paul</hi> miſtakes <hi>Moſes</hi> about the point of mar<g ref="char:EOLhyphen"/>riage.</p>
+            <p>To which I ſhall give a double anſwer.</p>
+            <p n="1">1. There is a publick and a pri<g ref="char:EOLhyphen"/>vate good. In reſpect of one man it may be good not to touch a wo<g ref="char:EOLhyphen"/>man, but in reſpect of all. So it is not good that the man ſhould be a<g ref="char:EOLhyphen"/>lone.</p>
+            <p n="2">2. <hi>Moſes</hi> ſpeaks of the ſtate of man created, <hi>Paul</hi> of the ſtate of man corrupted: now that which by inſtitution was a mercy, may by corruption become a miſery; as pure water is tainted by running through a miry channel; or as the Sunne-beames recieves a tincture by ſhining through a coloured glaſſe. There's no print of evil in the world, but ſinne was the ſtamp that made it. They which ſeek nothing but weal in its commiſſion,
+<pb n="25" facs="tcp:170214:12"/>
+will finde nothing but woe in the concluſion. Which leades me from the ſolitarineſſe of the conditi<g ref="char:EOLhyphen"/>on, <hi>man alone,</hi> to the ſutableneſſe of the proviſion, <hi>I will make her an help meet for him.</hi>
+            </p>
+            <p>In which you have two parts,
+<list>
+                  <item>1. The Agent, <hi>I will make.</hi>
+                  </item>
+                  <item>2. The Object, <hi>a help.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, The Agent, <hi>I will make.</hi>
+            </p>
+            <p>We can't build a houſe without tooles, but the Trinity is at li<g ref="char:EOLhyphen"/>berty.
+<q>Dic verbum tantum.</q>
+To Gods omniſcience there's nothing inviſible, and to Gods omnipotence there's nothing im<g ref="char:EOLhyphen"/>poſſible.</p>
+            <p>We work by hands without, but he workes without hands. He that made man meet
+<pb n="26" facs="tcp:170214:13"/>
+for help, makes a meet help for man.</p>
+            <p>Marriages are conſented above, but conſummated below. <hi>Prov.</hi> 18. 22. Though man wants ſup<g ref="char:EOLhyphen"/>ply, yet man cannot ſupply his wants. <hi>James 1. 17. Every good and perfect gift comes from a<g ref="char:EOLhyphen"/>bove, &amp;c.</hi> A wife though ſhe be not a perfect gift, yet ſhe is a good gift. Theſe beames are dar<g ref="char:EOLhyphen"/>ted from the Sunne of righteouſ<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Haſt thou a ſoft heart? it's of Gods breaking: Haſt thou a ſweet wife? ſhee's of Gods ma<g ref="char:EOLhyphen"/>king.</p>
+            <p>Let me draw up this ex<g ref="char:EOLhyphen"/>preſſion with a double applica<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="1">1. When thou layeſt out for ſuch a good on earth, look up to the God of heaven. Let him make thy choice for thee who hath made his choice of thee. Look a<g ref="char:EOLhyphen"/>bove
+<pb n="27" facs="tcp:170214:13"/>
+you before you look about you. Nothing makes up the hap<g ref="char:EOLhyphen"/>pineſſe of a married condition like the holineſſe of a mortified diſpo<g ref="char:EOLhyphen"/>ſition. Account not thoſe the moſt worthy, that are the moſt wealthy. Art thou matched to the Lord? match in the Lord, How happy are ſuch marriages where Chriſt is at the Wedding<g ref="char:punc">▪</g> Let none but thoſe who have found favour in Gods eyes, finde favour in yours.</p>
+            <p n="2">2. Give God the Tribute of your gratulation for your good companions. Take heed of pay<g ref="char:EOLhyphen"/>ing your rent to a wrong Landlord. When you taſte of the ſtreame, re<g ref="char:EOLhyphen"/>flect on the ſpring that feeds it. Now thou haſt foure eyes for thy ſpeculation, foure hands for thy o<g ref="char:EOLhyphen"/>peration, foure feet for thy ambu<g ref="char:EOLhyphen"/>lation, and foure ſhoulders for thy ſuſtentation. What the ſinne a<g ref="char:EOLhyphen"/>gainſt the Holy Ghoſt is in point
+<pb n="28" facs="tcp:170214:14"/>
+of divinity, that is unthankfulneſſe in point of morality; an offence un<g ref="char:EOLhyphen"/>pardonable. Pity it is but that Moon ſhould be ever in an Eclipſe that will not acknowledge her beames to be borrowed from the Sunne. He that praiſes not the giver, prizes not the gift, and ſo I paſſe from the Agent to the Ob<g ref="char:EOLhyphen"/>ject, <hi>a help.</hi>
+            </p>
+            <p>She muſt be ſo much, and no leſſe, and ſo much, and no more. Our ribs were not ordained to be our Rulers. They are not made of the head to claim ſuperiority, but out of the ſide to be content with equality. They deſert the Au<g ref="char:EOLhyphen"/>thor of nature, that invert the or<g ref="char:EOLhyphen"/>der of nature. The woman was made for the mans comfort, but the man was not made for the wo<g ref="char:EOLhyphen"/>mans command. Thoſe ſhoulders aſpire too high, that content not themſelves with a roome below their head. It's between a man
+<pb n="29" facs="tcp:170214:14"/>
+and his wife in the houſe, as it is between the Sunne and the Moone in the heavens, when the greater light goes down, the leſſer light gets up; when the one ends in ſetting, the other beginnes in ſhining. The wife may be a Soveraigne in her huſ<g ref="char:EOLhyphen"/>bands abſence, but ſhe muſt be ſubject in her husbands pre<g ref="char:EOLhyphen"/>ſence. As <hi>Pharaoh</hi> ſaid to <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> ſo ſhould the husband ſay to his wife, <hi>Geneſis</hi> 41. 40. Thou ſhalt be over my houſe, and according to thy word ſhall all my people be ruled, onely in the Throne will I be greater than thou. The body of that Houſhould can never make any good motion, whoſe bones are out of place. The Woman muſt be a helpe to the man in theſe foure things.</p>
+            <list>
+               <item>
+                  <pb n="30" facs="tcp:170214:15"/>1. To his Piety.</item>
+               <item>2. To his Society.</item>
+               <item>3. To his Progeny.</item>
+               <item>4. To his Proſperity.</item>
+            </list>
+            <p>To his Piety by the ferventneſſe of her excitati<g ref="char:EOLhyphen"/>on.</p>
+            <p>To his Society by the fragrantneſſe of her converſa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>To his Progeny by the fruitfulneſſe of her education.</p>
+            <p>To his Proſperity by the faithfulneſſe of her preſerva<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="1">1. To his Piety by the fer<g ref="char:EOLhyphen"/>ventneſſe of her excitation, 1 <hi>Pet.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 7.</p>
+            <p>Husband and wife ſhould be as the two milch-kine which were coupled together to carry the Arke of God; or as the two Cherubims that look't one upon a<g ref="char:EOLhyphen"/>nother, and both upon the Mer<g ref="char:EOLhyphen"/>cy-Seat; or as the two tables
+<pb n="31" facs="tcp:170214:15"/>
+of ſtone, on each of which were engraven the Lawes of God. In ſome families married perſons are like <hi>Jeremiah's</hi> two baskets of figges, one very good, the other very evil<g ref="char:punc">▪</g> or like fire and water, whil'ſt the one is flaming in devotion, the other is freezing in corruption. There is a twofold hindrance of holineſſe; firſt, of the right ſide; ſecondly, on the left; on the right ſide when the wife would run in Gods way, the husband will not let her go: when the fore-horſe in a teame will not draw, he wrongs all the reſt; when the General of an Army forbids a Martch, all the Souldiers ſtand ſtill. Some<g ref="char:EOLhyphen"/>times on the left; How did <hi>Solomons</hi> Idolatrous wifes draw away his heart from heaven? A ſinning wife was Satans firſt ladder, by which he ſcaled the walls of Paradiſe and took a<g ref="char:EOLhyphen"/>way
+<pb n="32" facs="tcp:170214:16"/>
+the Fort-Royal of <hi>Adams</hi> heart from him. Thus ſhe that ſhould have been the helpe of his fleſh, was the hurt of his Faith: His natures under-prop<g ref="char:EOLhyphen"/>per, becomes his graces under<g ref="char:EOLhyphen"/>miner; and ſhe that ſhould be a Crown on the head, is a croſſe on the ſhoulders. The wife is often to the husband as the ivy is to the oak, which drawes away his ſap from him.</p>
+            <p n="2">2. A help to his ſociety by the fragrantneſſe of her conver<g ref="char:EOLhyphen"/>ſation.</p>
+            <p>Man is an affectionate crea<g ref="char:EOLhyphen"/>ture, now the womans behavi<g ref="char:EOLhyphen"/>our ſhould be ſuch towards the man, as to requite his affection by increaſing his delectation. That the new-borne-love may not be blaſted, as ſoon as it's bloſſomed; that it may not be ruined before it be rooted. A Spouſe ſhould carry her ſelfe ſo
+<pb n="33" facs="tcp:170214:16"/>
+to her husband as not to di<g ref="char:EOLhyphen"/>ſturb his love by her contenti<g ref="char:EOLhyphen"/>on, nor to deſtroy his love by her alienation. Husband and wife ſhould be like two candles burning together, which makes the houſe more lightſome, or like two fragrant flowers bound up in one Noſegay that aug<g ref="char:EOLhyphen"/>ments it's ſweetneſſe; or like two well tuned inſtruments, which ſounding together, makes the more melodious muſick. Husband and wife, what are they but as two ſprings meeting, and ſo joyning their ſtreames that they make but one cur<g ref="char:EOLhyphen"/>rant? It's an unpleaſing ſpe<g ref="char:EOLhyphen"/>ctacle to view any Con<g ref="char:EOLhyphen"/>tention in this Conjuncti<g ref="char:EOLhyphen"/>on.</p>
+            <p n="3">3. To his Progeny by the fruitfulneſſe of her education, that ſo her children in the fleſh may be Gods children in the
+<pb n="34" facs="tcp:170214:17"/>
+Spirit, 1 <hi>Samuel 1. 11. Han<g ref="char:EOLhyphen"/>na</hi> ſhe vowes if the Lord will give her a Sonne by bearing him, ſhe will returne that ſon to the Lord by ſerving him. A Spouſe ſhould be more care<g ref="char:EOLhyphen"/>ful of her childrens breeding, than ſhe ſhould be fearful of her childrens bearing. Take heede laſt theſe flowers grow in the Devils Garden. Though you bring them out in corruption, yet do not bring them up to damnation. Thoſe are not Mo<g ref="char:EOLhyphen"/>thers, but Monſters, that whil'ſt they ſhould be teaching their children the way to heaven with their lips, are leading them the way to hell with their lives.</p>
+            <p>Good education is the beſt livery you can give them living, and it's the beſt Legacy you can leave them dying. You let out your cares to make them great,
+<pb n="35" facs="tcp:170214:17"/>
+O lift up your prayers to make them good; That before you dye from them, you may ſee Chriſt live in them.</p>
+            <p>Whil'ſt theſe Twigges are greene and tender, they ſhould be bowed towards God. Chil<g ref="char:EOLhyphen"/>dren and Servants are in a Fa<g ref="char:EOLhyphen"/>mily, as Paſſengers are in a Boat; husband and wife they are as a paire of Oares, to row them to their deſired Haven. Let theſe ſmall pieces of Timber be hewed, and ſquared for the Caeleſtial building. By putting a Scepter of Grace into their hands, you will ſet a Crown of glo<g ref="char:EOLhyphen"/>ry upon their heads.</p>
+            <p n="4">4. A helpe to his Proſ<g ref="char:EOLhyphen"/>perity by her faithful pre<g ref="char:EOLhyphen"/>ſervation, being not a Wan<g ref="char:EOLhyphen"/>drer abroad, but a Worker at home.</p>
+            <p>One of the Antients ſpeakes
+<pb n="36" facs="tcp:170214:18"/>
+excellently; She muſt not be a Field-Wife like <hi>Dinah,</hi> nor a Street-Wife like <hi>Thamar,</hi> nor a Window-Wife like <hi>Jeza<g ref="char:EOLhyphen"/>bel.</hi>
+            </p>
+            <p>
+               <hi>Phideas</hi> when he drew a wo<g ref="char:EOLhyphen"/>man, painted her ſitting under a Snaile-ſhell, that ſhe might imitate that little Creature that goes no further than it can carry it's houſe upon it's head.</p>
+            <p>How many women are there that are not labouring Bees, but idle Drones; that take up a roome in the Hive, but bring no Honey to it; that are Moths to their husbands E<g ref="char:EOLhyphen"/>ſtates; ſpending, when they ſhould be ſparing? As the man's part is to provide in<g ref="char:EOLhyphen"/>duſtrouſly, ſo the womans is to preſerve diſcreetly; the one muſt not be careleſly wanting, the other muſt not be cauſleſly
+<pb n="37" facs="tcp:170214:18"/>
+waſting: the man muſt be ſeeking with diligence, the wo<g ref="char:EOLhyphen"/>man muſt be ſaving with provi<g ref="char:EOLhyphen"/>dence. The Cock and the Hen both ſcrape together in the duſt<g ref="char:EOLhyphen"/>heap to pick up ſomething for their little chickens.</p>
+            <p>To winde up this on a ſhort bottome.</p>
+            <p n="1">1. If the Woman be a helpe to the man, then let not the man caſt dirt on the Woman.</p>
+            <p>
+               <hi>Secundus</hi> being asked his o<g ref="char:EOLhyphen"/>pinion of a Woman, ſpeakes thus, <hi>Viri naufragium domus tempeſtas, quietis impedimen<g ref="char:EOLhyphen"/>tum, &amp;c.</hi> But ſurely he was a Monſter, and not a man, fitter for a Tombe to bury him, than a wombe to beare him.</p>
+            <p>Some have ſtiled them to be,
+<q>
+                  <lg>
+                     <l>
+                        <pb n="38" facs="tcp:170214:19"/>Like Clouds in the Sky.</l>
+                     <l>Like Motes in the Sun.</l>
+                     <l>Like Snuffs in the Candle.</l>
+                     <l>Like Weeds in the Garden.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>It is not good to play the Butcher with that naked Sex that hath no armes but for imbraces. A Preacher ſhould not be ſilent for thoſe who are ſilenced from preaching; becauſe they are the weaker Veſſels, ſhall they be broken all to pieces? Thou that ſayeſt women are evil, it may be thy expreſſion flowes from thy experience; but I ſhall never take that Mariner for my Pi<g ref="char:EOLhyphen"/>lot, that hath no better know<g ref="char:EOLhyphen"/>ledge than the ſplitting of his own Ship. Wilt thou con<g ref="char:EOLhyphen"/>demne the frame of all for the faults of one? as if it were true Logick, becauſe
+<pb n="39" facs="tcp:170214:19"/>
+ſome are evil, therefore none are good. He hath ill eyes that diſdaines all objects. To blaſt thy helper, is to blame thy Maker. In a word, we took our riſe from their bowels, and may take our reſt in their boſomes.</p>
+            <p n="2">2. Is the woman to be a helpe to the man? Then let the man be a helpe to the wo<g ref="char:EOLhyphen"/>man. What makes theſe Deb<g ref="char:EOLhyphen"/>tors be ſuch ill Pay-Maſters? but becauſe they look at what is owing to them, but not at what is owing by them. If thou wouldſt have thy wifes re<g ref="char:EOLhyphen"/>verence, let her have thy re<g ref="char:EOLhyphen"/>ſpect. To force a feare from this relation, is that which nei<g ref="char:EOLhyphen"/>ther befits the husbands authori<g ref="char:EOLhyphen"/>ty to enjoyne, nor the wifes duty to performe. A wife muſt not be ſharply driven, but ſweetly drawn. Compaſſion may
+<pb n="40" facs="tcp:170214:20"/>
+bend her, but compulſion will break her. Husband and Wife ſhould act towards each o<g ref="char:EOLhyphen"/>ther with conſent, not by con<g ref="char:EOLhyphen"/>ſtraint.</p>
+            <p>There are foure things wherein the husband is to be a meet help to the wife.</p>
+            <p n="1">1. In his protecting of her from injuries. It's well obſerved by one, that the rib, of which woman was made, was taken from under the mans arme: as the uſe of the arme is to keep off blowes from the body, ſo the office of the husband is to ward off blowes from the wife: The wife is the husbands Treaſury, and the husband ſhould be the wifes Armory. In darkneſſe he ſhould be her Sun for direction; in danger he ſhould be her ſhield for pro<g ref="char:EOLhyphen"/>tection.</p>
+            <p n="2">2. In his providing for her
+<pb n="41" facs="tcp:170214:20"/>
+neceſſities. The husband muſt com<g ref="char:EOLhyphen"/>municate maintenance to the wife, as the head conveyes influence to the members; Thou muſt not be a Drone, and ſhe a Drudge. A man in a married eſtate is like a Chamberlaine in an Inne, there's knocking for him in e<g ref="char:EOLhyphen"/>very roome. Many perſons in this condition, waſte that eſtate in Luxury, which ſhould ſup<g ref="char:EOLhyphen"/>ply their wives neceſſity. <hi>Nec amor viget mariti, nec fides Chriſtiani,</hi> they have neither the faith of a Chriſtian, nor the love of a husband. It's a ſad ſpectacle to ſee a Virgin ſold with her own money unto ſlave<g ref="char:EOLhyphen"/>ry, when Services are bet<g ref="char:EOLhyphen"/>ter than Marriages; the one recieves Wages, whil'ſt the other buyes their Fetters.</p>
+            <p n="3">3. In his covering of her in<g ref="char:EOLhyphen"/>firmities. Who would trample
+<pb n="42" facs="tcp:170214:21"/>
+upon a Jewel becauſe it's fallen in the dirt? or throw away a heap of wheat, for a little chaſſe? or deſpiſe a golden wedge, becauſe it retaines ſome droſſe? Theſe Roſes have their prickles. Now husbands ſhould ſpread a mantle of charity over their wives infirmities. They be ill Birds that defile their own neſts. It's a great deal better you ſhould faſt, than feaſt your ſelves upon their failings. Some husbands are never well, lon<g ref="char:EOLhyphen"/>ger than they are holding their fingers in their wives ſores. Such are like Crowes, that faſten onely upon carrion. Do not put out the Candle, be<g ref="char:EOLhyphen"/>cauſe of the ſnuffe. If the gold be good, allow it <hi>grains.</hi> Huſ<g ref="char:EOLhyphen"/>bands and wives ſhould provoke one another to love, and they ſhould love one another notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="43" facs="tcp:170214:21"/>
+of provocation. Take heed of poyſoning thoſe Springs, from whence the Streames of your Pleaſure flowes.</p>
+            <p n="4">4. By his delighting in her Society: A wife takes Sanctu<g ref="char:EOLhyphen"/>ary, not onely in her husbands houſe, but in his heart. The Tree of love ſhould grow up in the Family, as the Tree of life grew up in the Garden. They that chooſe their love, ſhould love their choice. They that marry where they affect not, will affect where they marry not. Two joyned together without love, are but two ty'd together, to make one another miſerable. And ſo I paſſe to the laſt ſtage of the text, <hi>a help meet.</hi>
+            </p>
+            <p>A helpe, there's her fulneſſe;
+<pb n="44" facs="tcp:170214:22"/>
+a meet help, there's her fit<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>The Angels were too much above him, the creatures were too much below him; he could not ſteppe up to the former, nor could he ſtoope down to the latter: The one was out of his reach, the other was out of his race: but the woman is a parallel line drawn equal with him: meet ſhe muſt be in three things.</p>
+            <p n="1">1. In the Harmony of her diſpoſition. Husband and wife ſhould be like the image in a looking-glaſſe that anſwers in all properties to the face that ſtands before it; or like an Eccho that returneth the voice it recieveth. Many marriages are like putting new wine into old
+<pb n="45" facs="tcp:170214:22"/>
+bottles. An old man is not a meet help for a young wo<g ref="char:EOLhyphen"/>man. He that ſets a gray head upon greene ſhoulders, hath one foot in the Grave, and a<g ref="char:EOLhyphen"/>nother in the Cradle. Yet how many times do you ſee the ſpring of youth, wedded to the winter of old age? A young perſon, is not a meet help for an old woman; raw fleſh is but an ill plaiſter for rotten bones. He that in his non-age, marries another in her dote-age, his luſt hath one wife in poſſeſſion, but his love another in reverſi<g ref="char:EOLhyphen"/>on.</p>
+            <p n="2">2. In the Herauldry of her condition. Some of our Euro<g ref="char:EOLhyphen"/>pian Nations, are ſo ſtrict in their junctions, that it's a<g ref="char:EOLhyphen"/>gainſt their Lawes, for the
+<pb n="46" facs="tcp:170214:23"/>
+Commonalty to couple with the Gentry.</p>
+            <p>It was well ſaid by one: If the wife be too much above her husband, ſhe either ruines him by her vaſt expences, or re<g ref="char:EOLhyphen"/>viles him with her baſe reproa<g ref="char:EOLhyphen"/>ches: If ſhe be too much below her husband, either her former condition makes her too generous, or her preſent mu<g ref="char:EOLhyphen"/>tation, makes her too im<g ref="char:EOLhyphen"/>perious.</p>
+            <p>Marriages are ſtiled matches, yet amongſt thoſe many that are married, how few are there that are matched? Husbands and wives are like locks and keyes, that rather break than open, except the wards be anſwe<g ref="char:EOLhyphen"/>rable.</p>
+            <p n="3">3. In the holineſſe of her
+<pb n="47" facs="tcp:170214:23"/>
+Religion. If adultery may ſepa<g ref="char:EOLhyphen"/>rate a marriage contracted, I<g ref="char:EOLhyphen"/>dolatry may hinder a marriage not perfected. Cattle of diverſe kinds were not to ingender, 2 <hi>Corinthians 6. 14. Be not une<g ref="char:EOLhyphen"/>qually yoked, &amp;c.</hi> It's dange<g ref="char:EOLhyphen"/>rous taking her for a wife, who will not take God for a husband. It is not meet that one fleſh ſhould be of two ſpi<g ref="char:EOLhyphen"/>rits. Is there never a Tree thou likeſt in the Garden, but that which beares forbidden fruit? there are but two channels in which the remaining ſtreames ſhall runne.
+<list>
+                  <item>1. To thoſe men that want wives, how to chooſe them.</item>
+                  <item>2. To thoſe women that have husbands, how to uſe them.</item>
+               </list>
+            </p>
+            <p n="1">1. To thoſe men that want wives, how to chooſe them.</p>
+            <p>
+               <pb n="48" facs="tcp:170214:24"/>Marriage is the tying of ſuch a knot, that nothing but death can unlooſe. Common reaſon ſug<g ref="char:EOLhyphen"/>geſts ſo much, that we ſhould be long a doing that which can but once be done. Where one deſigne hath been gravel<g ref="char:EOLhyphen"/>led in the Sands of Delay, thouſands have been ſplit up<g ref="char:EOLhyphen"/>on the Rock of Precipitance. Raſh adventures, yields little gaine. Opportunities are not like tides, that when one is paſt, another returnes; but yet take heed of flying with<g ref="char:EOLhyphen"/>out your wings; you may breed ſuch Agues in your bones, that may ſhake you to your graves.</p>
+            <list>
+               <item>1. Let me preſerve you from a bad choice.</item>
+               <item>
+                  <pb n="49" facs="tcp:170214:24"/>2. Preſent you with a good one.</item>
+            </list>
+            <p>Firſt, to preſerve you from a bad choice. Take that in three things.</p>
+            <list>
+               <item>1. Chooſe not for Beauty.</item>
+               <item>2. Chooſe not for Dowry.</item>
+               <item>3. Chooſe not for Dignity.</item>
+            </list>
+            <p>He that looks for beauty, buye a picture.</p>
+            <p>He that loves for Dowry, makes a purchaſe.</p>
+            <p>He that leapes for Dignity, matches with a Multitude at once.</p>
+            <p>The firſt of theſe is too blind to be directed.</p>
+            <p>The ſecond, too baſe to be ac<g ref="char:EOLhyphen"/>cepted.</p>
+            <p>The third, too bold to be re<g ref="char:EOLhyphen"/>ſpected.</p>
+            <list>
+               <item>1. Chooſe not by your eyes.</item>
+               <item>2. Chooſe not by your hands.</item>
+               <item>3. Chooſe not by your eares.</item>
+            </list>
+            <p>Firſt, chooſe not by your eyes, looking at the beauty of the perſon. Not but that
+<pb n="50" facs="tcp:170214:25"/>
+this is lovely in a woman, but that this is not all for which a woman ſhould be be<g ref="char:EOLhyphen"/>loved. He that had the choice of many faces, ſtampes this Character upon them all; fa<g ref="char:EOLhyphen"/>vour is deceitful, and beauty is vaine. The Sunne is more bright in a cleare Sky, than when the Horizon is clouded. But if a womans fleſh hath more of beauty, than her ſpi<g ref="char:EOLhyphen"/>rit hath of Chriſtianity; it's like poiſon in ſweet-meates, moſt dangerous. <hi>Geneſis 6. 2. The ſonnes of God ſaw the daugh<g ref="char:EOLhyphen"/>ters of men that they were fair, &amp;c.</hi> One would have thought, that they ſhould rather have look'd for grace in the heart, than for the beauty in the face. Take heed of Inning at the faireſt ſignes. The Swan hath black fleſh under her white feathers.</p>
+            <p>
+               <pb n="51" facs="tcp:170214:25"/>Secondly, Chooſe not by your hands, for the bounty of the por<g ref="char:EOLhyphen"/>tion.</p>
+            <p>When <hi>Cato's</hi> daughter was asked, why ſhe did not mar<g ref="char:EOLhyphen"/>ry, ſhe thus reply'd; ſhe could not find the man that loved her perſon above her portion. Men love curious pictures, but they would have them ſet in golden frames. Some are ſo degenerate, as to think any to be good e<g ref="char:EOLhyphen"/>nough, who have but goods enough. Take heed, for ſome<g ref="char:EOLhyphen"/>times the bag and baggage go together. The perſon ſhould be a figure, and the portion a Cypher, which added to her, advances the ſumme, but alone ſignifies nothing. When <hi>Themiſtocles</hi> was to marry his daughter, two Suitors courted her together, the one rich and a foole, the other wiſe, but
+<pb n="52" facs="tcp:170214:26"/>
+poore; and being demanded which of the two he had ra<g ref="char:EOLhyphen"/>ther his daughter ſhould have, anſwered, <hi>mallem virum ſi<g ref="char:EOLhyphen"/>ne pecunia, &amp;c.</hi> I had rather ſhe ſhould have a man without money, than money without a man.</p>
+            <p>Thirdly, chooſe not by your eares, for the dignity of her parentage. A good old ſtock may nouriſh a fruitleſſe branch. There are many chil<g ref="char:EOLhyphen"/>dren who are not the bleſſings, but the blemiſhes of their pa<g ref="char:EOLhyphen"/>rents. They are nobly deſ<g ref="char:EOLhyphen"/>cended, but ignobly minded. Such was <hi>Aurelius Antonius,</hi> of whom it was ſaid, that he injured his Country in nothing, but in being the father of ſuch a childe. There are ma<g ref="char:EOLhyphen"/>ny low in their deſcents, that are high in their, deſerts. Such was the Coblers ſonne, who grew to be a famous Cap<g ref="char:EOLhyphen"/>taine;
+<pb n="53" facs="tcp:170214:26"/>
+when a great perſon upbraided the meanneſſe of his original, my nobility (ſaith he) begins with me, but thy nobility ends with thee. Pie<g ref="char:EOLhyphen"/>ty is a greater honour than parentage. She is the beſt Gentlewoman that is heire of her own deſerts, and not the degenerated off-ſpring of anothers vertue.</p>
+            <p>Secondly, to preſent you with a good choice; in three things.</p>
+            <p n="1">1. Chooſe ſuch a one as will be ſubject to your do<g ref="char:EOLhyphen"/>minion. Take heed of yoking your ſelves with untamed Hei<g ref="char:EOLhyphen"/>fers.</p>
+            <p n="2">2. Chooſe ſuch a one as may ſympathize with you in your affliction. Marriage is juſt like a Sea-Voyage, he that enters into this Ship, muſt look to meet with ſtormes
+<pb n="54" facs="tcp:170214:27"/>
+and tempeſts. 1 <hi>Corinthians 7. 28. They that marry ſhall have trouble in the fleſh.</hi> Fleſh and trouble are married together, whether we marry or no, now a bitter cup is too much to be drunk by one mouth. A heavy burden is eaſily car<g ref="char:EOLhyphen"/>ried by the aſſiſtance of others ſhoulders. Husband and wife ſhould neither be proud fleſh, nor dead fleſh. You are fel<g ref="char:EOLhyphen"/>low-Members, therefore ſhould have a fellow-feeling. While one ſtands ſafe on the ſhore, the other ſhould pity him that is toſt on the Sea. Sympathy in ſuffering, is like a dry Houſe in a wet day.</p>
+            <p n="3">3. Chooſe ſuch a one as may be ſerviceable to your ſalvation. A man may think he hath a Saint, when he hath a Devil, but take heed of a Harlot that is falſe to thy
+<pb n="55" facs="tcp:170214:27"/>
+bed, and of a hypocrite that is falſe to thy God.</p>
+            <p>Secondly: To thoſe women that have Husbands, how to uſe them. In two things.</p>
+            <p n="1">1. Carry your ſelves too wards them with obedience. Let their power command you, that their praiſe may com<g ref="char:EOLhyphen"/>mend you. Though you may have your husbands hearts, yet you muſt not have their heads. As you will his love, ſo you ſhould love his will. Till the husband leave com<g ref="char:EOLhyphen"/>manding, the wife muſt ne<g ref="char:EOLhyphen"/>ver leave obeying. As his injunctions muſt be lawfull, to her ſubjection muſt be loyal.</p>
+            <p n="2">2. With faithfulneſſe. In Creation God made not one woman for many men, nor many women for one man: Every wife ſhould be to her husband, as <hi>Evah</hi> was to <hi>A<g ref="char:EOLhyphen"/>dam,</hi>
+               <pb n="56" facs="tcp:170214:28"/>
+a whole world of wo<g ref="char:EOLhyphen"/>men; and every husband ſhould be to his wife, as <hi>Adam</hi> was to <hi>Evah,</hi> a whole world of men. When a river is divided into many channels, the main cur<g ref="char:EOLhyphen"/>rent ſtarves.</p>
+            <p>To conclude: Good Ser<g ref="char:EOLhyphen"/>vants are a great bleſſings: good Children a greater bleſ<g ref="char:EOLhyphen"/>ſing: but a good wife is the greateſt bleſſing: and ſuch a helpe let him ſeeke for her that wants one, let him ſigh for her that hath loſt one, let him take plea<g ref="char:EOLhyphen"/>ſure in her that enjoyes one.</p>
+            <epigraph>
+               <q>
+                  <hi>And the Lord God ſaid, it is not good, &amp;c.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
